@@ -1,0 +1,225 @@
+// First Bubble
+{
+                        "type": "bubble",
+                        "body": {
+                          "type": "box",
+                          "layout": "vertical",
+                          "contents": [
+                            {
+                              "type": "image",
+                              "url": "https://lh3.googleusercontent.com/fnpaXw90OFBXmiwKs_nzC8sqGWqOGC__aegybDKjVhAaJp9fbTF7FX8UPy9f8wn8fN9scMdEJCt-_bmMr_uGtj6wPP3nrUog3KRXrnNEB7WoEM46nzjMKacVKaRh6SvEFsp34Z_2GCX82aNri_Kd8wIflvb8PXWQgXo9i9AtqG3UIps5UaDDccQRp010I4wS51lU2odQZcpz7FV2D8j5pLYTwvCcj7mPcfJvwM6E6bWL08rCXYb_UJo_KPSE7b1tHiOnc7vumw-T8H_A7FKod3uAfu8jceNnE_SOJNDvdIrHJrm4kWtYkiiZ6CFQ-rwC19Uc7tuoU3iedUM30HcvvzJuxXK5xXm7mhFBImAiMqVXbXEboyejdqD0t-1Da_9pHsfc1wXxUhqoyuDdJdzs0O6ZoGiI-FTrQlRpeJqcGF6yKKTEEK7KnosAuzfQ_e5N0A8ZpGarJ43dai7ysr98UQIQyVGZTa4jTwPh4nxHzIfB9YupsN8Am7OoG4-TsuGlUCzKO2eyTJo8IV9lycYnHHLncO4HJAy3zQWJh6JDYPImTwPoOTCYMNMKEO7JbhU05WKaLogbj8y7aYyL2VrmtS7PJKWnMm81h_IPA-vHduBeMnHfcYe9YlcHD-85h9ftrz7jeIxxuKm0_tzLpzvr0f2RcVqutSJ1JwNU0l-8X4kiwMajkisKX_v4Y6r2MfamXs7YcYqO3NsTWu7QPTaSh9EiTPglQ4JBhgM4r5U9qNGak9Gdgm30RbdOtEIvtAxFlZg4MpF_PxISi9LZDYJ7X0jlq_zDahG21hk97UZlXd17YDmOwiaV5ZdMGoxcjZvf230Q1ZkbVQ=w2305-h1536-no?authuser=0",
+                              "size": "full",
+                              "aspectMode": "cover",
+                              "aspectRatio": "16:12",
+                              "gravity": "top"
+                            },
+                            {
+                              "type": "box",
+                              "layout": "vertical",
+                              "contents": [
+                                {
+                                  "type": "text",
+                                  "text": "โปรโมชั่น 11-13 มิ.ย.",
+                                  "color": "#FFFFFF",
+                                  "size": "xs"
+                                },
+                                {
+                                  "type": "box",
+                                  "layout": "vertical",
+                                  "contents": [
+                                    {
+                                      "type": "text",
+                                      "text": "ชุดปลาดิบฮานามิ",
+                                      "size": "xl",
+                                      "color": "#ffffff",
+                                      "weight": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "box",
+                                  "layout": "baseline",
+                                  "contents": [
+                                    {
+                                      "type": "text",
+                                      "text": "675.-",
+                                      "color": "#ebebeb",
+                                      "size": "sm",
+                                      "flex": 0,
+                                      "decoration": "line-through"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "ลดเหลือ 575.- บาท",
+                                      "color": "#ffffff",
+                                      "decoration": "none",
+                                      "gravity": "bottom",
+                                      "flex": 0,
+                                      "size": "lg",
+                                      "weight": "bold"
+                                    }
+                                  ],
+                                  "spacing": "lg"
+                                },
+                                {
+                                  "type": "box",
+                                  "layout": "vertical",
+                                  "contents": [
+                                    {
+                                      "type": "text",
+                                      "text": "สำหรับออเดอร์ทานที่ร้าน/สั่งกลับบ้าน/สั่งเดลิเวอรี่ตรงกับทางร้านเท่านั้น",
+                                      "wrap": true,
+                                      "size": "xs",
+                                      "color": "#EAEAEA"
+                                    }
+                                  ],
+                                  "paddingTop": "xl",
+                                  "paddingBottom": "none"
+                                }
+                              ],
+                              "position": "relative",
+                              "offsetBottom": "0px",
+                              "offsetStart": "0px",
+                              "offsetEnd": "0px",
+                              "backgroundColor": "#6f6359",
+                              "paddingAll": "20px",
+                              "paddingTop": "18px"
+                            },
+                            {
+                              "type": "box",
+                              "layout": "vertical",
+                              "contents": [
+                                {
+                                  "type": "text",
+                                  "text": "SALE",
+                                  "color": "#ffffff",
+                                  "align": "center",
+                                  "size": "xs",
+                                  "offsetTop": "3px"
+                                }
+                              ],
+                              "position": "absolute",
+                              "cornerRadius": "20px",
+                              "offsetTop": "18px",
+                              "backgroundColor": "#ff334b",
+                              "offsetStart": "18px",
+                              "height": "25px",
+                              "width": "53px"
+                            }
+                          ],
+                          "paddingAll": "0px"
+                        }
+                      },
+//Second bubble
+                      {
+                        "type": "bubble",
+                        "body": {
+                          "type": "box",
+                          "layout": "vertical",
+                          "contents": [
+                            {
+                              "type": "image",
+                              "url": "https://lh3.googleusercontent.com/W_LsuNTZVDacF-5-fGdp9ZE9eiOOMH_jaMMY5SWwmbKI9lv0mIyRjloSNC_NMmJFE4xvhHJIAUBZf6xa_PhNzPjh6YHqYcD3NEGmX7Fx8GW_ZARwtYNA-VbHmWXhKuzW7qQFOF1SV62aeXo_lOGJFkzTKHcE1M2v-ysvxiXIzcl5kkpt3SYb7RBZKGwmC1cM7w61b31IaLbChzafQ-okUPVJTnqUV-Z8RdaEyEC6OUzcUfMmF9kDWyKRoFtoHlXyYpcVH4Sa_VwU9TQM-vByGH3RJg7OUIgZrUcG0mk9qzh9q_6zIW26g-1w9H3exEcL3Pz8dIea8nT6sotrNBl2_tgTqexgjSGqxtm2zpv4cZ9msb7qZrMIL3O45UgOivpSCM-l22rLaD7ClR2lZE5-Ty6qPzyoEECaorAQIGRSb9_tjK1CXQYW66tOW72Bg1PKRUDC07gwTukjwnE0cVHrgDkP7wgPvQGNJJ5TnU6o8DSLsnPafDBMej-UiDDt6mx0xX86TI3_RwHZSMfPefDZRDMq--1muxtD-KbxyvLLbzr6bgzcWcq-CveUi-geNyWLZia4ERXci2QVGEw1UwQGIASMRQovUNP4_hbkV4c4cK-FmxalQAnI_wp9W6s3SQZkZbIaLjpX-FnbZ0_xq9OC_8khtM5dYHDG3b1riBdFYBjRuQ96jX9BGJUgYPRG6GXoPtQIU2ELqeOS6FPd_PK__JWxk42_IwyFelzTDlPeovDrrjpkXCyMXddKftHzvHKAg49X4YIAosPWPXocKTfwo9FBCRL1HUnl7YP7LYUXF4QOL2uYiWaHu_jDlSMiIKuEsEY-7Mu7-w=w2838-h1892-no?authuser=0",
+                              "size": "full",
+                              "aspectMode": "cover",
+                              "aspectRatio": "16:12",
+                              "gravity": "top",
+                              "animated": false
+                            },
+                            {
+                              "type": "box",
+                              "layout": "vertical",
+                              "contents": [
+                                {
+                                  "type": "text",
+                                  "text": "โปรโมชั่น 11-13 มิ.ย.",
+                                  "color": "#FFFFFF",
+                                  "size": "xs"
+                                },
+                                {
+                                  "type": "box",
+                                  "layout": "vertical",
+                                  "contents": [
+                                    {
+                                      "type": "text",
+                                      "text": "แซลมอนซาชิมิ L",
+                                      "size": "xl",
+                                      "color": "#ffffff",
+                                      "weight": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "box",
+                                  "layout": "baseline",
+                                  "contents": [
+                                    {
+                                      "type": "text",
+                                      "text": "390.-",
+                                      "color": "#ebebeb",
+                                      "size": "sm",
+                                      "flex": 0,
+                                      "decoration": "line-through"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "ลดเหลือ 365.- บาท",
+                                      "color": "#ffffff",
+                                      "decoration": "none",
+                                      "gravity": "bottom",
+                                      "flex": 0,
+                                      "size": "lg",
+                                      "weight": "bold"
+                                    }
+                                  ],
+                                  "spacing": "lg"
+                                },
+                                {
+                                  "type": "box",
+                                  "layout": "vertical",
+                                  "contents": [
+                                    {
+                                      "type": "text",
+                                      "text": "สำหรับออเดอร์ทานที่ร้าน/สั่งกลับบ้าน/สั่งเดลิเวอรี่ตรงกับทางร้านเท่านั้น",
+                                      "wrap": true,
+                                      "size": "xs",
+                                      "color": "#EAEAEA"
+                                    }
+                                  ],
+                                  "paddingTop": "xl",
+                                  "paddingBottom": "none"
+                                }
+                              ],
+                              "position": "relative",
+                              "offsetBottom": "0px",
+                              "offsetStart": "0px",
+                              "offsetEnd": "0px",
+                              "backgroundColor": "#6f6359",
+                              "paddingAll": "20px",
+                              "paddingTop": "18px"
+                            },
+                            {
+                              "type": "box",
+                              "layout": "vertical",
+                              "contents": [
+                                {
+                                  "type": "text",
+                                  "text": "SALE",
+                                  "color": "#ffffff",
+                                  "align": "center",
+                                  "size": "xs",
+                                  "offsetTop": "3px"
+                                }
+                              ],
+                              "position": "absolute",
+                              "cornerRadius": "20px",
+                              "offsetTop": "18px",
+                              "backgroundColor": "#ff334b",
+                              "offsetStart": "18px",
+                              "height": "25px",
+                              "width": "53px"
+                            }
+                          ],
+                          "paddingAll": "0px"
+                        }
+                      }
