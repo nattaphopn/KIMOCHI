@@ -1,125 +1,127 @@
-{ "cp_begin": "06/19/2022",
-  "cp_end": "06/20/2022",
- "content":
- {
-  "type": "bubble",
-  "body": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "image",
-        "url": "https://lh3.googleusercontent.com/PVyCnQLNZ5GDCYEejpAwkTh3QyYbDaH3nLjqOnQL2wgKa_MIb6jWvrh4HoT8WfB8gRDEyAqQlZS5zfC8fkpo1SeDjMEb5Ln1zd7oOd-0tswkx3CKAIfN0L2Ff_kKbeZpLXqbcHbnv4kT4uQ5c5g4fmkz4RirAwsBzJvpxtyKUTiOsxKm3ZU66UUCV2kcVt1dV_NRyhIXJcKbZhdoZyPDAzynE-gNvQzR8H9DrdndnKdddDonT43nyArAObM2h0X5_7tKPWYx2PhSYxd4wXItWiYB7jLlcFff_fhBYov1VvuYSlzkaTDwIdHRKniK2chdl3LJ4pFLQ7cKFgYtV8u2Pv3Ty1VIQm0sRaYqHl1bxuZRCkrBCTiRj35bf7Y7tuwndzA-5i0-eRhgywtXWWpIMou7wTfL0HLnYXjjo_7yOUY6UQHse26Q9lV9NI1H9aNmpk2UgfBRq3DkJZEG18MVJ_YCINNORbCMoL_OKiCLOjzOB2dS4N5lai8BufYTb3-1dGHxemJT8HzPRRdTsQvZb06W7ccPttgeqhVeGictD_1drhqAmTuLj9CsGjGnjqV6-jcOJ0GnX3ZYTeXVXQ6z16HkmZofMmerz9xGNPGq6pVYAnVErkQYo-Bkr4-AJeH0Ei8bYWor2eZOqg8URW5K1EFEICuhOne__9r-9_3q1N4uOaigQkx8r_pXPx5nkhUK2Xh_KKCKnJ7iUkktgdbmzHXpEqcfRVnQvHJDeaUGfZADhljM1NG9Qu2S-RN1qykAo-aryCGOvA4E0gNRXvOQm6IcxbRJZ0j34A1fNXy0_CM5sERXvdgvmWgSVAbp9xUreGk9Z5-v3pHGAsFGDj1MGYXvFeh7vNf_kxU96GYl3jrsoA=w2960-h1892-no?authuser=0",
-        "size": "full",
-        "aspectMode": "cover",
-        "aspectRatio": "16:12",
-        "gravity": "top"
-      },
-      {
-        "type": "box",
-        "layout": "vertical",
-        "contents": [
-          {
-            "type": "text",
-            "text": "โปรโมชั่น 19-20 มิ.ย.",
-            "color": "#FFFFFF",
-            "size": "xs"
-          },
-          {
-            "type": "box",
-            "layout": "baseline",
-            "contents": [
-              {
-                "type": "text",
-                "text": "รับฟรี!",
-                "color": "#ffffff",
-                "decoration": "none",
-                "gravity": "bottom",
-                "flex": 0,
-                "size": "md",
-                "weight": "regular",
-                "offsetTop": "sm"
-              }
-            ],
-            "spacing": "lg"
-          },
-          {
-            "type": "box",
-            "layout": "vertical",
-            "contents": [
-              {
-                "type": "text",
-                "text": "หนังปลากรอบแซลมอนดิป",
-                "size": "xl",
-                "color": "#ffffff",
-                "weight": "bold"
-              }
-            ]
-          },
-          {
-            "type": "box",
-            "layout": "baseline",
-            "contents": [
-              {
-                "type": "text",
-                "text": "เมื่อสั่งแซลมอนซาชิมิ L",
-                "color": "#ffffff",
-                "decoration": "none",
-                "gravity": "bottom",
-                "flex": 0,
-                "size": "md",
-                "weight": "regular"
-              }
-            ],
-            "spacing": "lg"
-          },
-          {
-            "type": "box",
-            "layout": "vertical",
-            "contents": [
-              {
-                "type": "text",
-                "text": "(สำหรับออเดอร์ทานที่ร้านเท่านั้น)",
-                "wrap": true,
-                "size": "xs",
-                "color": "#EAEAEA"
-              }
-            ],
-            "paddingTop": "xl",
-            "paddingBottom": "none"
-          }
-        ],
-        "position": "relative",
-        "offsetBottom": "0px",
-        "offsetStart": "0px",
-        "offsetEnd": "0px",
-        "backgroundColor": "#6f6359",
-        "paddingAll": "20px",
-        "paddingTop": "18px"
-      },
-      {
-        "type": "box",
-        "layout": "vertical",
-        "contents": [
-          {
-            "type": "text",
-            "text": "FREE",
-            "color": "#ffffff",
-            "align": "center",
-            "size": "xs",
-            "offsetTop": "3px"
-          }
-        ],
-        "position": "absolute",
-        "cornerRadius": "20px",
-        "offsetTop": "18px",
-        "backgroundColor": "#ff334b",
-        "offsetStart": "18px",
-        "height": "25px",
-        "width": "53px"
-      }
-    ],
-    "paddingAll": "0px"
-  }
-}
+{"promotion": 
+             { "cp_begin": "06/19/2022",
+               "cp_end": "06/20/2022",
+               "content":
+                       {
+                        "type": "bubble",
+                        "body": {
+                          "type": "box",
+                          "layout": "vertical",
+                          "contents": [
+                            {
+                              "type": "image",
+                              "url": "https://lh3.googleusercontent.com/PVyCnQLNZ5GDCYEejpAwkTh3QyYbDaH3nLjqOnQL2wgKa_MIb6jWvrh4HoT8WfB8gRDEyAqQlZS5zfC8fkpo1SeDjMEb5Ln1zd7oOd-0tswkx3CKAIfN0L2Ff_kKbeZpLXqbcHbnv4kT4uQ5c5g4fmkz4RirAwsBzJvpxtyKUTiOsxKm3ZU66UUCV2kcVt1dV_NRyhIXJcKbZhdoZyPDAzynE-gNvQzR8H9DrdndnKdddDonT43nyArAObM2h0X5_7tKPWYx2PhSYxd4wXItWiYB7jLlcFff_fhBYov1VvuYSlzkaTDwIdHRKniK2chdl3LJ4pFLQ7cKFgYtV8u2Pv3Ty1VIQm0sRaYqHl1bxuZRCkrBCTiRj35bf7Y7tuwndzA-5i0-eRhgywtXWWpIMou7wTfL0HLnYXjjo_7yOUY6UQHse26Q9lV9NI1H9aNmpk2UgfBRq3DkJZEG18MVJ_YCINNORbCMoL_OKiCLOjzOB2dS4N5lai8BufYTb3-1dGHxemJT8HzPRRdTsQvZb06W7ccPttgeqhVeGictD_1drhqAmTuLj9CsGjGnjqV6-jcOJ0GnX3ZYTeXVXQ6z16HkmZofMmerz9xGNPGq6pVYAnVErkQYo-Bkr4-AJeH0Ei8bYWor2eZOqg8URW5K1EFEICuhOne__9r-9_3q1N4uOaigQkx8r_pXPx5nkhUK2Xh_KKCKnJ7iUkktgdbmzHXpEqcfRVnQvHJDeaUGfZADhljM1NG9Qu2S-RN1qykAo-aryCGOvA4E0gNRXvOQm6IcxbRJZ0j34A1fNXy0_CM5sERXvdgvmWgSVAbp9xUreGk9Z5-v3pHGAsFGDj1MGYXvFeh7vNf_kxU96GYl3jrsoA=w2960-h1892-no?authuser=0",
+                              "size": "full",
+                              "aspectMode": "cover",
+                              "aspectRatio": "16:12",
+                              "gravity": "top"
+                            },
+                            {
+                              "type": "box",
+                              "layout": "vertical",
+                              "contents": [
+                                {
+                                  "type": "text",
+                                  "text": "โปรโมชั่น 19-20 มิ.ย.",
+                                  "color": "#FFFFFF",
+                                  "size": "xs"
+                                },
+                                {
+                                  "type": "box",
+                                  "layout": "baseline",
+                                  "contents": [
+                                    {
+                                      "type": "text",
+                                      "text": "รับฟรี!",
+                                      "color": "#ffffff",
+                                      "decoration": "none",
+                                      "gravity": "bottom",
+                                      "flex": 0,
+                                      "size": "md",
+                                      "weight": "regular",
+                                      "offsetTop": "sm"
+                                    }
+                                  ],
+                                  "spacing": "lg"
+                                },
+                                {
+                                  "type": "box",
+                                  "layout": "vertical",
+                                  "contents": [
+                                    {
+                                      "type": "text",
+                                      "text": "หนังปลากรอบแซลมอนดิป",
+                                      "size": "xl",
+                                      "color": "#ffffff",
+                                      "weight": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "box",
+                                  "layout": "baseline",
+                                  "contents": [
+                                    {
+                                      "type": "text",
+                                      "text": "เมื่อสั่งแซลมอนซาชิมิ L",
+                                      "color": "#ffffff",
+                                      "decoration": "none",
+                                      "gravity": "bottom",
+                                      "flex": 0,
+                                      "size": "md",
+                                      "weight": "regular"
+                                    }
+                                  ],
+                                  "spacing": "lg"
+                                },
+                                {
+                                  "type": "box",
+                                  "layout": "vertical",
+                                  "contents": [
+                                    {
+                                      "type": "text",
+                                      "text": "(สำหรับออเดอร์ทานที่ร้านเท่านั้น)",
+                                      "wrap": true,
+                                      "size": "xs",
+                                      "color": "#EAEAEA"
+                                    }
+                                  ],
+                                  "paddingTop": "xl",
+                                  "paddingBottom": "none"
+                                }
+                              ],
+                              "position": "relative",
+                              "offsetBottom": "0px",
+                              "offsetStart": "0px",
+                              "offsetEnd": "0px",
+                              "backgroundColor": "#6f6359",
+                              "paddingAll": "20px",
+                              "paddingTop": "18px"
+                            },
+                            {
+                              "type": "box",
+                              "layout": "vertical",
+                              "contents": [
+                                {
+                                  "type": "text",
+                                  "text": "FREE",
+                                  "color": "#ffffff",
+                                  "align": "center",
+                                  "size": "xs",
+                                  "offsetTop": "3px"
+                                }
+                              ],
+                              "position": "absolute",
+                              "cornerRadius": "20px",
+                              "offsetTop": "18px",
+                              "backgroundColor": "#ff334b",
+                              "offsetStart": "18px",
+                              "height": "25px",
+                              "width": "53px"
+                            }
+                          ],
+                          "paddingAll": "0px"
+                        }
+                      }
+            }
 }
